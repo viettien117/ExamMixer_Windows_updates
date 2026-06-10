@@ -1,0 +1,6 @@
+# KHONG BAO GIO commit private key vao day
+*.priv
+NetSparkle_Ed25519.priv
+
+# File MSI host tren GitHub Releases, khong de trong repo Pages
+*.msi
