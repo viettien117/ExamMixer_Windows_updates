@@ -34,4 +34,4 @@ Xem changelog từng phiên bản tại [appcast.xml](appcast.xml) hoặc trang 
 
 ## Bản quyền
 
-Copyright © 2026 Viet Tien. All rights reserved.
+Copyright © 2026 RuBi. All rights reserved.
