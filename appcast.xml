@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>ExamMixer Updates</title>
@@ -6,27 +6,19 @@
     <description>Auto-update feed for ExamMixer</description>
     <language>vi</language>
 
-    <item>
-      <title>Version 1.0.0</title>
-      <pubDate>Wed, 10 Jun 2026 10:00:00 +0700</pubDate>
-      <sparkle:version>1.0.0</sparkle:version>
-      <description><![CDATA[
-        <h3>Version 1.0.0</h3>
-        <ul>
-          <li>Phiên bản đầu tiên của ExamMixer.</li>
-          <li>Đọc ngân hàng câu hỏi từ file Word (.docx), nhận diện đáp án đúng theo in đậm / in nghiêng.</li>
-          <li>Trộn đề: đảo thứ tự câu, đảo phương án, sinh nhiều mã đề, rút ngẫu nhiên từ ngân hàng lớn.</li>
-          <li>Xuất đề ra Word, PDF; xuất bảng đáp án .xlsx tương thích ExamScan để chấm bài.</li>
-        </ul>
-      ]]></description>
-      <enclosure
-        url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.0/ExamMixer-1.0.0-x64.msi"
-        length="56805144"
-        type="application/octet-stream"
-        sparkle:version="1.0.0"
-        sparkle:os="windows"
-        sparkle:edSignature="0fRUxNKejjMPjnHiUOVRImDO/pbdkQfLysesuRknHu5zhvT4dMiEvYAnMbMyns1mi6miUJv7ieRORpgQ6EpDAQ==" />
-    </item>
+    
 
-  </channel>
+  <item><title>Version 1.0.0</title><pubDate>Wed, 05 Aug 2026 08:56:11 +0700</pubDate><sparkle:version>1.0.0</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.0</h3>
+        <p>Phiên bản đầu tiên của ExamMixer.</p>
+        <ul>
+          <li>Đọc ngân hàng câu hỏi từ file Word (.docx); nhận diện đáp án đúng theo in đậm / in nghiêng / gạch dưới.</li>
+          <li>Tự định nghĩa cấu trúc câu hỏi (tiền tố câu, dấu sau số câu, dấu sau chữ cái) kèm ví dụ minh hoạ có màu.</li>
+          <li>Hỗ trợ câu hỏi dùng chung đoạn dẫn nhập (đọc hiểu, bảng số liệu): các câu trong nhóm luôn đi cùng nhau khi trộn.</li>
+          <li>Trộn đề: đảo thứ tự câu, đảo phương án, sinh nhiều mã đề ngẫu nhiên, rút ngẫu nhiên từ ngân hàng lớn.</li>
+          <li>Xuất đề ra Word và PDF, giữ nguyên hình ảnh và công thức từ ngân hàng gốc.</li>
+          <li>Xuất bảng đáp án .xlsx dùng được ngay với ExamScan để chấm bài tự động.</li>
+          <li>Giao diện 5 ngôn ngữ: Tiếng Việt, English, Português, Español, Bahasa Indonesia.</li>
+        </ul>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.0/ExamMixer-1.0.0-x64.msi" length="56833811" type="application/octet-stream" sparkle:version="1.0.0" sparkle:os="windows" sparkle:edSignature="xgF1j6ZmhhOoAoUrGgOQDzwtQWIqLOyoxiD+bqRMKkigiIN6H+sqevvTUXp41iucpujJUMIbvNPRvQio6LRdCw==" /></item></channel>
 </rss>
