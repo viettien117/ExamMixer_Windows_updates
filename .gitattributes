@@ -1,0 +1,7 @@
+# appcast.xml duoc KY bang Ed25519 va chu ky nam trong appcast.xml.signature.
+# Chu ky tinh tren TUNG BYTE cua file. Neu git tu doi LF <-> CRLF khi commit hay
+# khi checkout thi byte doi theo -> chu ky khong con khop -> ung dung bao
+# "Sorry, either you aren't connected to the internet, or our server is having
+# a problem." Vi vay giu nguyen xi, khong dung sua ket thuc dong.
+appcast.xml            -text
+appcast.xml.signature  -text
