@@ -1,10 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>ExamMixer Updates</title>
     <link>https://viettien117.github.io/ExamMixer_Windows_updates/appcast.xml</link>
     <description>Auto-update feed for ExamMixer</description>
     <language>vi</language>
+
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Thu, 06 Aug 2026 12:34:27 +0700</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <description><![CDATA[
+        <h3>Version 1.0.1</h3>
+        <p>Bản cập nhật tập trung vào việc dễ nhìn, dễ đọc hơn.</p>
+        <ul>
+          <li><b>Chữ to hơn khoảng 15%</b> trên toàn bộ chương trình. Những dòng ghi chú và ví dụ nhỏ nhất trước đây khó đọc nhất nay được nâng nhiều nhất.</li>
+          <li><b>Danh sách ngân hàng câu hỏi hiện thêm đường dẫn</b> — thấy ngay file đang nằm ở thư mục nào, không còn nhầm khi hai file trùng tên.</li>
+          <li>Tab <b>Giới thiệu</b> chia thành từng thẻ riêng thay vì một khối chữ dài; mục nói về ExamScan mang màu xanh của chính ExamScan cho dễ phân biệt.</li>
+          <li>Thêm liên kết <b>Ghé thăm website</b> ở mục Liên hệ.</li>
+          <li><b>Sửa lỗi:</b> bấm "Trộn thử với file mẫu" không còn xoá mất cấu trúc câu hỏi mà bạn đã tự đặt — cấu trúc cũ tự quay lại khi bỏ file mẫu khỏi danh sách.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.1/ExamMixer-1.0.1-x64.msi"
+        length="56842010"
+        type="application/octet-stream"
+        sparkle:version="1.0.1"
+        sparkle:os="windows"
+        sparkle:edSignature="SGc9fs6JRgOQqzQKgr9uzUS0zKAJ7QuMdRsi33ukV7MawK64WOWMeof+B2j2qKOBl8CBZJKXarmHWerBHRDTDg==" />
+    </item>
 
     <item>
       <title>Version 1.0.0</title>
@@ -21,13 +45,7 @@
           <li>Giao diện và file mẫu có đủ <b>5 ngôn ngữ</b>: Tiếng Việt, English, Português, Español, Bahasa Indonesia.</li>
         </ul>
       ]]></description>
-      <enclosure
-        url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.0/ExamMixer-1.0.0-x64.msi"
-        length="56846099"
-        type="application/octet-stream"
-        sparkle:version="1.0.0"
-        sparkle:os="windows"
-        sparkle:edSignature="lSWMHZ+Qg3CrraN2sRIvhKfhcROB3giJShU2kAL/52iO65y+PrJZKlWBpWUcnNm6Gk8MQk+QdQr3JEVW7RocAQ==" />
+      <enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.0/ExamMixer-1.0.0-x64.msi" length="56846099" type="application/octet-stream" sparkle:version="1.0.0" sparkle:os="windows" sparkle:edSignature="lSWMHZ+Qg3CrraN2sRIvhKfhcROB3giJShU2kAL/52iO65y+PrJZKlWBpWUcnNm6Gk8MQk+QdQr3JEVW7RocAQ==" />
     </item>
 
   </channel>
