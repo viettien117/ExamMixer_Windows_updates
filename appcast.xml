@@ -6,10 +6,25 @@
     <description>Auto-update feed for ExamMixer</description>
     <language>vi</language>
 
-    <item><title>Version 1.0.4</title><pubDate>Tue, 11 Aug 2026 13:07:42 +0700</pubDate><sparkle:version>1.0.4</sparkle:version><description><![CDATA[
+    <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Tue, 11 Aug 2026 13:07:42 +0700</pubDate>
+      <sparkle:version>1.0.4</sparkle:version>
+      <description><![CDATA[
         <h3>Version 1.0.4</h3>
-        <p>Thay moi bo ngan hang cau hoi mau cho ca 5 ngon ngu: noi dung pho quat (toan co ban, khoa hoc pho thong, dia ly the gioi) thay cho bo cu mang yeu to vung mien.</p>
-      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.4/ExamMixer-1.0.4-x64.msi" length="56825626" type="application/octet-stream" sparkle:version="1.0.4" sparkle:os="windows" sparkle:edSignature="NylKtNdTnUYHlg67pfRkqMaH4wjXOilUZP6KQvq32iGVET8mRYwEHYuz4/v3SeeSdsTd9o09a7ENpRBpWfDFBg==" /></item><item>
+        <p><b>Thay mới toàn bộ ngân hàng câu hỏi mẫu</b> — bộ câu hỏi kèm sẵn khi bạn bấm "Trộn thử với file mẫu".</p>
+        <ul>
+          <li>Nội dung mới là những kiến thức <b>ai cũng biết</b>: toán cơ bản, khoa học phổ thông và địa lý thế giới. Bộ cũ nói về một vùng cụ thể nên người dùng ở ngôn ngữ khác không tự kiểm được đáp án — trong khi điều họ cần là hiểu <i>chương trình</i>, không phải ngồi đoán đáp án.</li>
+          <li>Đủ <b>5 ngôn ngữ</b>: Tiếng Việt, English, Português, Español, Bahasa Indonesia.</li>
+          <li>Giữ nguyên cấu trúc cũ nên vẫn minh hoạ đủ mọi tình huống: 5 câu lẻ, và 7 câu chia 3 cụm dùng chung đoạn dẫn nhập (đoạn văn, bảng số liệu, bài toán chuyển động), kể cả trường hợp đề bài dài nhiều dòng.</li>
+          <li>Đáp án đúng rải đều các phương án A, B, C, D thay vì dồn hết vào một chỗ.</li>
+        </ul>
+        <p>Không có thay đổi nào khác về tính năng so với 1.0.3.</p>
+      ]]></description>
+      <enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.4/ExamMixer-1.0.4-x64.msi" length="56825626" type="application/octet-stream" sparkle:version="1.0.4" sparkle:os="windows" sparkle:edSignature="NylKtNdTnUYHlg67pfRkqMaH4wjXOilUZP6KQvq32iGVET8mRYwEHYuz4/v3SeeSdsTd9o09a7ENpRBpWfDFBg==" />
+    </item>
+
+    <item>
       <title>Version 1.0.3</title>
       <pubDate>Thu, 06 Aug 2026 13:14:46 +0700</pubDate>
       <sparkle:version>1.0.3</sparkle:version>
