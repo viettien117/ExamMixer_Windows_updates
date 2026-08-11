@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamMixer</description>
     <language>vi</language>
 
-    <item>
+    <item><title>Version 1.0.4</title><pubDate>Tue, 11 Aug 2026 13:07:42 +0700</pubDate><sparkle:version>1.0.4</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.4</h3>
+        <p>Thay moi bo ngan hang cau hoi mau cho ca 5 ngon ngu: noi dung pho quat (toan co ban, khoa hoc pho thong, dia ly the gioi) thay cho bo cu mang yeu to vung mien.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.4/ExamMixer-1.0.4-x64.msi" length="56825626" type="application/octet-stream" sparkle:version="1.0.4" sparkle:os="windows" sparkle:edSignature="NylKtNdTnUYHlg67pfRkqMaH4wjXOilUZP6KQvq32iGVET8mRYwEHYuz4/v3SeeSdsTd9o09a7ENpRBpWfDFBg==" /></item><item>
       <title>Version 1.0.3</title>
       <pubDate>Thu, 06 Aug 2026 13:14:46 +0700</pubDate>
       <sparkle:version>1.0.3</sparkle:version>
@@ -15,13 +18,7 @@
         <p>Bản này dùng để <b>kiểm thử chức năng cập nhật tự động</b> vừa được sửa ở 1.0.2.</p>
         <p>Không có thay đổi nào về tính năng so với 1.0.2. Nếu bạn thấy được thông báo này và cài đặt xong mà chương trình mở lại hiện đúng "Phiên bản hiện tại: 1.0.3" thì đường cập nhật đã hoạt động trọn vẹn.</p>
       ]]></description>
-      <enclosure
-        url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.3/ExamMixer-1.0.3-x64.msi"
-        length="56842010"
-        type="application/octet-stream"
-        sparkle:version="1.0.3"
-        sparkle:os="windows"
-        sparkle:edSignature="jW0ON2ebnXNEwbI81OjiXc+Kbk0QTRq5LFggCTCDscoXITJloPKDcIh8MnjHBiLcc/P6v884znFr3qo93dCTAQ==" />
+      <enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.0.3/ExamMixer-1.0.3-x64.msi" length="56842010" type="application/octet-stream" sparkle:version="1.0.3" sparkle:os="windows" sparkle:edSignature="jW0ON2ebnXNEwbI81OjiXc+Kbk0QTRq5LFggCTCDscoXITJloPKDcIh8MnjHBiLcc/P6v884znFr3qo93dCTAQ==" />
     </item>
 
     <item>
