@@ -6,10 +6,7 @@
     <description>Auto-update feed for ExamMixer</description>
     <language>vi</language>
 
-    <item><title>Version 1.1.0</title><pubDate>Tue, 01 Sep 2026 21:55:05 +0700</pubDate><sparkle:version>1.1.0</sparkle:version><description><![CDATA[
-        <h3>Version 1.1.0</h3>
-        <p>Sửa lỗi rút thủ công theo file có thể thiếu câu: khi ngân hàng có câu dùng chung đoạn dẫn nhập, cứ ba lần trộn thì một lần đề ra thiếu câu mà nhìn vẫn bình thường — lỗi có từ bản đầu tiên. Nay nếu số câu bạn đặt không ghép được, chương trình báo trước thay vì lặng lẽ rút ít hơn. Giao diện dựng lại trên nền mới để dùng chung với bản macOS, chức năng và cách dùng giữ nguyên. Từ bản này ExamMixer có thêm bản cho máy Mac. Lưu ý: cùng một Seed từ nay sẽ cho ra bộ đề khác trước — ai đang lưu Seed để tái lập đề cũ sẽ không ra bộ y hệt nữa.</p>
-      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.1.0/ExamMixer-1.1.0-x64.msi" length="44945346" type="application/octet-stream" sparkle:version="1.1.0" sparkle:os="windows" sparkle:edSignature="OtouS7YKqe2LWRYsyrHfVc/22/Jp3Q6WpH1IkNXvKkpZ7VaKSPPIfWj+o4rLKbETRbm/kDSDTWq1s85PSGlhAA==" /></item><item><title>Version 1.0.7</title><pubDate>Fri, 14 Aug 2026 14:09:20 +0700</pubDate><sparkle:version>1.0.7</sparkle:version><description><![CDATA[
+    <item><title>Version 1.0.7</title><pubDate>Fri, 14 Aug 2026 14:09:20 +0700</pubDate><sparkle:version>1.0.7</sparkle:version><description><![CDATA[
         <h3>Version 1.0.7</h3>
         <ul>
           <li><b>Sửa một lỗi làm chương trình tắt ngang.</b> Trên máy chưa cài phần mềm thư (Outlook, Thunderbird…), bấm vào địa chỉ email trong mục Giới thiệu là ExamMixer <b>đóng luôn</b> — mất cả ngân hàng câu hỏi vừa nạp và bộ đề đang trộn dở. Nay không những hết đóng, mà chương trình còn chép địa chỉ vào bộ nhớ tạm và chỉ bạn cách dán vào Gmail trên trình duyệt.</li>
