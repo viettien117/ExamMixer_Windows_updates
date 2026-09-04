@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamMixer</description>
     <language>vi</language>
 
-    <item><title>Version 1.0.7</title><pubDate>Fri, 14 Aug 2026 14:09:20 +0700</pubDate><sparkle:version>1.0.7</sparkle:version><description><![CDATA[
+    <item><title>Version 1.1.1</title><pubDate>Fri, 04 Sep 2026 10:35:46 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.1</h3>
+        <p>Sửa lỗi xuất PDF mất sạch hình: đề có hình thì bản PDF ra không còn tấm nào, không báo lỗi gì, trong khi bản Word vẫn đủ hình — lỗi có ở mọi bản trước đây. Sửa lỗi nâng cấp từ 1.0.x lên 1.1.0 làm mất một thư viện trong thư mục cài, khiến ExamMixer mở lên bình thường nhưng không đọc được file Word nào và báo nhầm là 'file đang bị mở'; ai đã trót lên 1.1.0 thì cài đè bản này lên là xong, dữ liệu vẫn nguyên. File đáp án .txt nay ghi 'Mã đề' có dấu và theo đúng ngôn ngữ đang chọn. Xem trước đề thi: dãy đáp án tách nhóm năm ký tự cho dễ đọc. Giao diện chuyển sang thanh điều hướng dọc bên trái, bốn bước đánh số, làm xong bước nào hiện dấu tích bước đó.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.1.1/ExamMixer-1.1.1-x64.msi" length="44953548" type="application/octet-stream" sparkle:version="1.1.1" sparkle:os="windows" sparkle:edSignature="S0VevIXLcb//FNBhLiikcztS/zgzSrmtUyGFQiE59TZ8VUWImFLLkAjhLNshId0iO+c1ob5J3sXwl5rbPdkxCQ==" /></item><item><title>Version 1.0.7</title><pubDate>Fri, 14 Aug 2026 14:09:20 +0700</pubDate><sparkle:version>1.0.7</sparkle:version><description><![CDATA[
         <h3>Version 1.0.7</h3>
         <ul>
           <li><b>Sửa một lỗi làm chương trình tắt ngang.</b> Trên máy chưa cài phần mềm thư (Outlook, Thunderbird…), bấm vào địa chỉ email trong mục Giới thiệu là ExamMixer <b>đóng luôn</b> — mất cả ngân hàng câu hỏi vừa nạp và bộ đề đang trộn dở. Nay không những hết đóng, mà chương trình còn chép địa chỉ vào bộ nhớ tạm và chỉ bạn cách dán vào Gmail trên trình duyệt.</li>
