@@ -6,7 +6,12 @@
     <description>Auto-update feed for ExamMixer</description>
     <language>vi</language>
 
-    <item><title>Version 1.1.5</title><pubDate>Fri, 25 Sep 2026 11:59:23 +0700</pubDate><sparkle:version>1.1.5</sparkle:version><description><![CDATA[
+    <item><title>Version 1.1.6</title><pubDate>Mon, 05 Oct 2026 10:59:59 +0700</pubDate><sparkle:version>1.1.6</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.6</h3>
+        <p>• Thêm nút ‹ › ở hai mép khung quảng cáo để xem quảng cáo trước hoặc sau, không phải chờ tự chuyển.
+
+Không thay đổi gì ở phần trộn đề và xuất file.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.1.6/ExamMixer-1.1.6-x64.msi" length="44969932" type="application/octet-stream" sparkle:version="1.1.6" sparkle:os="windows" sparkle:edSignature="1vdFFSGfqrSJwwqLMhIDqR0N1AivdRCkLkjsym4GiubHZ6e5L1Z9sTBHjhkD6rIuGcT94ECvp85l5uRYy3YOAQ==" /></item><item><title>Version 1.1.5</title><pubDate>Fri, 25 Sep 2026 11:59:23 +0700</pubDate><sparkle:version>1.1.5</sparkle:version><description><![CDATA[
         <h3>Version 1.1.5</h3>
         <p>Trang Giới thiệu đổi màu thống nhất cả bộ Exam*: thẻ của ExamMixer và các thẻ giới thiệu ExamScan, ExamInsight, ExamSheet mỗi thẻ một dải màu theo icon của chương trình đó, không viền. Không thay đổi gì ở phần trộn đề và xuất file.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.1.5/ExamMixer-1.1.5-x64.msi" length="44961740" type="application/octet-stream" sparkle:version="1.1.5" sparkle:os="windows" sparkle:edSignature="xDYiPFmLkQ1bZC33TnxqZEGNy2Pvp9PGrbB6PyDRIfV1TehVvTaaaj4hS8dXBuKxq7VDV7HxbOdAuMNYWUp0Dg==" /></item><item><title>Version 1.1.4</title><pubDate>Wed, 09 Sep 2026 09:26:12 +0700</pubDate><sparkle:version>1.1.4</sparkle:version><description><![CDATA[
