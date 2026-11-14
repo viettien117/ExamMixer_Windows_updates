@@ -6,7 +6,12 @@
     <description>Auto-update feed for ExamMixer</description>
     <language>vi</language>
 
-    <item><title>Version 1.1.7</title><pubDate>Thu, 29 Oct 2026 11:18:48 +0700</pubDate><sparkle:version>1.1.7</sparkle:version><description><![CDATA[
+    <item><title>Version 1.1.8</title><pubDate>Sat, 14 Nov 2026 09:03:21 +0700</pubDate><sparkle:version>1.1.8</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.8</h3>
+        <p>Cập nhật khung quảng cáo.
+
+• Quảng cáo chỉ hiện đúng ngôn ngữ bạn đang dùng; đổi ngôn ngữ là đổi theo ngay.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamMixer_Windows_updates/releases/download/v1.1.8/ExamMixer-1.1.8-x64.msi" length="44953548" type="application/octet-stream" sparkle:version="1.1.8" sparkle:os="windows" sparkle:edSignature="YPH7BMR0UUV0r5u+ImGezmaqKIN1dbSd4TGw48JBSHuasz5PpH3abjI0VY4ehqYkiGlYxCFlZeuvMat9XZIJAw==" /></item><item><title>Version 1.1.7</title><pubDate>Thu, 29 Oct 2026 11:18:48 +0700</pubDate><sparkle:version>1.1.7</sparkle:version><description><![CDATA[
         <h3>Version 1.1.7</h3>
         <p>Khung quảng cáo hiện nhanh hơn.
 
